@@ -32,19 +32,26 @@ This section focuses on creating a scraping system to gather data from a table l
 Specific Questions:
 
 1) Number of Months on Mars?
+
    There are 12 months on Mars.
 
-2) Number of Martian Days' Worth of Data:
+2) Number of Martian Days' Worth of Data?
+
     Approximately 675 Martian days' worth of data exist in the dataset.
 
-3) Coldest and Warmest Months:
+3) Coldest and Warmest Months?
+
     On average, the third month has the coldest minimum temperature on Mars, while the eighth month is the warmest.
 
-4) Lowest and Highest Atmospheric Pressure Months:
+4) Lowest and Highest Atmospheric Pressure Months?
+
     On average, atmospheric pressure is lowest in the sixth month and highest in the ninth.
 
-5) Martian Year Length:
+5) Martian Year Length?
+
     The plot indicates that a year on Mars is roughly 675 Earth days long, confirmed by an internet search which states that a Mars year is equivalent to 687 Earth days.
 
+   
+   
     Overall, the analysis provides insights into the temperature and atmospheric pressure variations across different months on Mars, as well as the length of a Martian year compared to Earth years.
 
